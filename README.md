@@ -1,4 +1,4 @@
-Contains a minimal build of OpenCV 4.13 for PS Move tracking.
+Contains a minimal build of OpenCV for PS Move tracking.
 
 This includes:
 - OpenCV binaries and headers, licensed under Apache License 2.0 (see LICENSE-OpenCV.txt).
